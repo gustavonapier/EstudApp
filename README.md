@@ -6,7 +6,8 @@ Este é um projeto de aprendizado que consiste em uma tela inicial de um aplicat
 
 ## 🖼️ Imagens
 
-![image](https://github.com/user-attachments/assets/7acadd9a-fd37-4559-99a5-362f497058f6)
+![image](https://github.com/user-attachments/assets/3faf6d58-3eb3-4787-8d37-d4bf4d833d34)
+
 
 ---
 
