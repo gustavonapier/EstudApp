@@ -23,7 +23,7 @@ Este é um projeto de aprendizado que consiste em uma tela inicial de um aplicat
 ## 🔗 Como acessar
 
 Você pode acessar a versão publicada do projeto clicando aqui:  
-👉 [https://gustavonapier.github.io/SignUp/](https://gustavonapier.github.io/SignUp/)
+👉 [https://gustavonapier.github.io/EstudApp/](https://gustavonapier.github.io/EstudApp/)
 
 ---
 
